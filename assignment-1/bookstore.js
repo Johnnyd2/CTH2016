@@ -76,9 +76,9 @@ switch (program.title) {
 
 switch (program.author) {
     case author1:
-        console.log("title"+ title1);
-        console.log("author"+ author1);
-        console.log("kind"+ kind1);
+        console.log("title: "+ title1);
+        console.log("author: "+ author1);
+        console.log("kind: "+ kind1);
         console.log("price"+ price1);
         break;
     case author2:
